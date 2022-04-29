@@ -484,6 +484,10 @@ h1{
     display: block;
 }
 
+#links{
+color: black;
+}
+
 .center{
     margin: 20px auto;
 }
